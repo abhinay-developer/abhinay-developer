@@ -1,6 +1,6 @@
-- 👋 Hi, I’m abhinay working as Java Full Stack Developer 
-- 👀 I’m interested in Angular ,Java , Springboot 
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Abhinay working as Java Full Stack Developer 
+- 👀 I’m Interested in Angular ,Java , Springboot ,React
+- 🌱 I’m Currently learning React
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
